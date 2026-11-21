@@ -1,0 +1,14 @@
+{
+  "wrn": {
+    "file": "wide-resnet50-layer1-layer2-fp16.safetensors",
+    "bytes": 8291712,
+    "sha256": "236157dcda9d8f3fe257e8aeb2daa2ceb900582a2adf40d1b4734c0b31007723",
+    "exact_state": true
+  },
+  "dino": {
+    "file": "dinov2-small-fp16.safetensors",
+    "bytes": 44128096,
+    "sha256": "ce0235559f82c27a6e4174778184f1f513cf3c55323ea0a658da95a9da2dedfa",
+    "exact_state": true
+  }
+}

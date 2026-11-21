@@ -1,0 +1,122 @@
+[
+  {
+    "category": "bottle",
+    "shape": [
+      224,
+      224
+    ],
+    "score": 14.54283332824707
+  },
+  {
+    "category": "cable",
+    "shape": [
+      224,
+      224
+    ],
+    "score": 7.4623918533325195
+  },
+  {
+    "category": "capsule",
+    "shape": [
+      224,
+      224
+    ],
+    "score": 1.2683501243591309
+  },
+  {
+    "category": "carpet",
+    "shape": [
+      224,
+      224
+    ],
+    "score": 26.698171615600586
+  },
+  {
+    "category": "grid",
+    "shape": [
+      224,
+      224
+    ],
+    "score": 13.785921096801758
+  },
+  {
+    "category": "hazelnut",
+    "shape": [
+      224,
+      224
+    ],
+    "score": 8.002273559570312
+  },
+  {
+    "category": "leather",
+    "shape": [
+      224,
+      224
+    ],
+    "score": 12.994792938232422
+  },
+  {
+    "category": "metal_nut",
+    "shape": [
+      224,
+      224
+    ],
+    "score": 6.385656356811523
+  },
+  {
+    "category": "pill",
+    "shape": [
+      224,
+      224
+    ],
+    "score": 0.45122450590133667
+  },
+  {
+    "category": "screw",
+    "shape": [
+      224,
+      224
+    ],
+    "score": -0.508475661277771
+  },
+  {
+    "category": "tile",
+    "shape": [
+      224,
+      224
+    ],
+    "score": 18.490203857421875
+  },
+  {
+    "category": "toothbrush",
+    "shape": [
+      224,
+      224
+    ],
+    "score": 23.952116012573242
+  },
+  {
+    "category": "transistor",
+    "shape": [
+      224,
+      224
+    ],
+    "score": 2.6291065216064453
+  },
+  {
+    "category": "wood",
+    "shape": [
+      224,
+      224
+    ],
+    "score": 10.463491439819336
+  },
+  {
+    "category": "zipper",
+    "shape": [
+      224,
+      224
+    ],
+    "score": 4.294336795806885
+  }
+]

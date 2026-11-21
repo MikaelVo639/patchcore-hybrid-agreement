@@ -1,0 +1,53 @@
+{
+  "method": "hybrid-agreement",
+  "algorithm_seed": 0,
+  "device": "cuda:0",
+  "image_shape": [
+    224,
+    224
+  ],
+  "wrn_resize_crop": [
+    256,
+    224
+  ],
+  "dino_resize_crop": [
+    448,
+    392
+  ],
+  "map_weights": {
+    "fine": 0.45,
+    "mid": 0.25,
+    "deep": 0.3
+  },
+  "image_weights": {
+    "coarse": 0.25,
+    "mid": 0.25,
+    "deep": 0.5
+  },
+  "spatial": 0.6,
+  "fine_contrast": 0.75,
+  "fine_window": 37,
+  "dino_contrast": 0.3,
+  "dino_window": 19,
+  "normalize_spread": true,
+  "gaussian_sigma": {
+    "fine": 3.0,
+    "coarse": 3.5,
+    "mid": 4.0,
+    "deep": 4.0
+  },
+  "image_top_k": {
+    "fine": 16,
+    "coarse": 16,
+    "mid": 10,
+    "deep": 10
+  },
+  "mid_block_weights": {
+    "block6": 0.7,
+    "block12": 0.3
+  },
+  "deep_block_weights": {
+    "block6": 0.25,
+    "block12": 0.75
+  }
+}

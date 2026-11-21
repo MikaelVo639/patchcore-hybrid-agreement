@@ -1,0 +1,78 @@
+{
+  "method": "hybrid-agreement",
+  "seed": 0,
+  "files": {
+    "models/banks/bottle.zip": {
+      "bytes": 667984,
+      "sha256": "303c8519337be8c925356dde8a627456a56c14e5b7a22498e8d4e57f73d12e0f"
+    },
+    "models/banks/cable.zip": {
+      "bytes": 648318,
+      "sha256": "dd90daf0b26048cefa1787def0c48a350082557bf35366fd486c5fa2e825dad1"
+    },
+    "models/banks/capsule.zip": {
+      "bytes": 670065,
+      "sha256": "6a222534607a4de2185c4db070783e1a08a614e1579879d52904716052cf6962"
+    },
+    "models/banks/carpet.zip": {
+      "bytes": 691620,
+      "sha256": "b9bd026ae0344a7479fdcd22b53f4281075f8415d8875c91a0ea991a9aa43760"
+    },
+    "models/banks/grid.zip": {
+      "bytes": 684824,
+      "sha256": "bb3cab212991ac7aee79160e89e62297b193267fecb02c09653500248707c0c3"
+    },
+    "models/banks/hazelnut.zip": {
+      "bytes": 655496,
+      "sha256": "1ef0f51a9cd361602f2db6eb930876f6d90d895537c774d5bd24603c0ed776d6"
+    },
+    "models/banks/leather.zip": {
+      "bytes": 694666,
+      "sha256": "df8971c9ea25dd54262ff1b6bbfb59817de8302cbb37fd968f5881e892c25613"
+    },
+    "models/banks/metal_nut.zip": {
+      "bytes": 656350,
+      "sha256": "2f7389a87197a622c9e8dc16c0e6aeb70be3da0ba57099d147f32776719d726e"
+    },
+    "models/banks/pill.zip": {
+      "bytes": 668640,
+      "sha256": "fa4d33f7c4b38f27d64460cc198c459391cd827f564aefd74f8bcac91f48b8ae"
+    },
+    "models/banks/screw.zip": {
+      "bytes": 665722,
+      "sha256": "d6a41d9c1b30c1f0a320fba891de19682c1a46bed07b86a6932c397ba32878cb"
+    },
+    "models/banks/tile.zip": {
+      "bytes": 681338,
+      "sha256": "be509c463f5b2b191cecad44441fd1d3263677f380c93f9e8b60e7bf32cacfee"
+    },
+    "models/banks/toothbrush.zip": {
+      "bytes": 669174,
+      "sha256": "d802530dce8eb93ad4fff522270101be50562646699a4e523e62e5a29131e04b"
+    },
+    "models/banks/transistor.zip": {
+      "bytes": 661869,
+      "sha256": "3cf6437a9859c1ea2ec0824b4048d24c561a14c8e74e235366129123a24af85c"
+    },
+    "models/banks/wood.zip": {
+      "bytes": 677926,
+      "sha256": "dd13600a60baa28d3ae2f1e5d143b9e5ae67e3688b792ff5a2394f6d8f96b3cb"
+    },
+    "models/banks/zipper.zip": {
+      "bytes": 674692,
+      "sha256": "a614c382895345b469d8f0d903e772e498e418641bbe8c5f633c51fa4df12367"
+    },
+    "models/encoders/dinov2-small-fp16.safetensors": {
+      "bytes": 44128096,
+      "sha256": "ce0235559f82c27a6e4174778184f1f513cf3c55323ea0a658da95a9da2dedfa"
+    },
+    "models/encoders/encoders.json": {
+      "bytes": 397,
+      "sha256": "61e71dc50d16e73e2e37a4645c824fd7f405df23f6f957f03dcd33f4ab85b81d"
+    },
+    "models/encoders/wide-resnet50-layer1-layer2-fp16.safetensors": {
+      "bytes": 8291712,
+      "sha256": "236157dcda9d8f3fe257e8aeb2daa2ceb900582a2adf40d1b4734c0b31007723"
+    }
+  }
+}
